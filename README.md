@@ -187,6 +187,6 @@ Project Link: [https://github.com/VawnDyu/weather-app](https://github.com/VawnDy
 - [ ] Historical data
 
 ---
-⭐ If you found this portfolio inspiring, consider giving it a star!
+⭐ If you found this app inspiring, consider giving it a star!
 
 Made with ❤️ by [VawnDyu](https://github.com/VawnDyu)
